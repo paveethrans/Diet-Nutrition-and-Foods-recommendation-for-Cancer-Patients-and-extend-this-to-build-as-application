@@ -16,4 +16,4 @@ Step 3. We know a lot of patterns conceived in the omics data were not reported,
 ## Current Progress:
 ▪ Delivered high-level research in statistical analysis of molecular omics data and natural language processing analysis of literature data to infer highly explainable dependencies among biomedical features.
 ▪ Improved the efficiency of abstract-mining operation by developing rigorous pattern matching program using NLTK and Regex in Python
-▪ Working on constructing a Knowledge-Graph by integrating findings from various data sources using BERT and unsupervised classification, which is directly used for nutrients-diet recommendations for diseased patients.
+▪ Working on constructing a Knowledge-Graph by integrating findings from various data sources using BERT and unsupervised classification, which is directly used for nutrients-diet recommendations for diseased patients. 
